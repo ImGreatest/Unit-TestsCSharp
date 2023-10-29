@@ -1,0 +1,12 @@
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.deps.json
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.dll
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.pdb
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.AssemblyReference.cache
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfo.cs
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.dll
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/refint/ClassLibrary1.dll
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.pdb
+/Users/raynsosling/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/net7.0/ref/ClassLibrary1.dll
